@@ -18,15 +18,19 @@ The project focuses on:
 
 ---
 
-## 📸 Screenshots
+## 📷 Screenshots
 
-| Home (Light Mode) | Home (Dark Mode) |
-|---|---|
-| ![Home Light](screenshots/home_light.png) | ![Home Dark](screenshots/home_dark.png) |
+### Home Screen
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![](screenshots/home_light.png) | ![](screenshots/home_dark.png) |
+
+### Application Screens
 
 | Categories | Quiz Screen | Result Screen | Review Screen |
-|---|---|---|---|
-| ![Categories](screenshots/categories_light.png) | ![Quiz](screenshots/quiz_screen.png) | ![Result](screenshots/result_screen.png) | ![Review](screenshots/review_screen.png) |
+|------------|-------------|---------------|---------------|
+| ![](screenshots/categories_light.png) | ![](screenshots/quiz_screen.png) | ![](screenshots/result_screen.png) | ![](screenshots/review_screen.png) |
 
 ---
 
