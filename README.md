@@ -32,6 +32,13 @@ The project focuses on:
 |------------|-------------|---------------|---------------|
 | ![](screenshots/categories_light.png) | ![](screenshots/quiz_screen.png) | ![](screenshots/result_screen.png) | ![](screenshots/review_screen.png) |
 
+
+---
+
+## 🎥 Demo Video
+
+📺 [Watch the demo video here](https://youtu.be/jCqpdnoeO1Y)
+
 ---
 
 ## ✨ Features
