@@ -1,0 +1,364 @@
+{
+  "quizzes": [
+    {
+      "id": "1",
+      "category": "Sports",
+      "icon": "🏀",
+      "questions": [
+        {
+          "id": "1",
+          "question": "How many players are in a basketball team on court?",
+          "options": ["3", "5", "7", "9"],
+          "correctAnswer": 1,
+          "explanation": "Each team has 5 players on the basketball court."
+        },
+        {
+          "id": "2",
+          "question": "Which country won the FIFA World Cup 2022?",
+          "options": ["Argentina", "France", "Brazil", "Germany"],
+          "correctAnswer": 0,
+          "explanation": "Argentina won the 2022 FIFA World Cup."
+        },
+        {
+          "id": "3",
+          "question": "What is the length of a tennis court?",
+          "options": ["23.77 m", "25.50 m", "30.00 m", "28.65 m"],
+          "correctAnswer": 0,
+          "explanation": "A tennis court is 23.77 meters long."
+        },
+        {
+          "id": "4",
+          "question": "How many innings are there in cricket?",
+          "options": ["1", "2", "3", "4"],
+          "correctAnswer": 1,
+          "explanation": "There are 2 innings in a cricket match."
+        },
+        {
+          "id": "5",
+          "question": "What is the highest score in darts?",
+          "options": ["100", "120", "180", "200"],
+          "correctAnswer": 2,
+          "explanation": "The highest score in darts is 180 (three triple 20s)."
+        },
+        { "id": "6",
+          "question": "What is the national sport of Japan?",
+          "options": ["Judo", "Sumo Wrestling", "Karate", "Baseball"],
+          "correctAnswer": 1,
+          "explanation": "Sumo Wrestling is Japan's national sport."
+        },
+        { "id": "7",
+          "question": "How many rings are there in the Olympic flag?",
+          "options": ["4", "5", "6", "7"],
+          "correctAnswer": 1,
+          "explanation": "The Olympic flag has 5 interlocking rings."
+        },
+        { "id": "8",
+          "question": "In which sport would you perform a 'slam dunk'?",
+          "options": ["Volleyball", "Basketball", "Tennis", "Badminton"],
+          "correctAnswer": 1,
+          "explanation": "A slam dunk is a basketball move."
+        },
+        { "id": "9",
+          "question": "How often are the Summer Olympic Games held?",
+          "options": ["Every 2 years", "Every 3 years", "Every 4 years", "Every 5 years"],
+          "correctAnswer": 2,
+          "explanation": "The Summer Olympics are held every 4 years."
+        },
+        { "id": "10",
+          "question": "Which country has won the most FIFA World Cups?",
+          "options": ["Germany", "Argentina", "Brazil", "Italy"],
+          "correctAnswer": 2,
+          "explanation": "Brazil has won the FIFA World Cup 5 times."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "category": "Science",
+      "icon": "🔬",
+      "questions": [
+        {
+          "id": "1",
+          "question": "What is the chemical symbol for Gold?",
+          "options": ["Go", "Gd", "Au", "Ag"],
+          "correctAnswer": 2,
+          "explanation": "Au is the chemical symbol for Gold."
+        },
+        {
+          "id": "2",
+          "question": "What is the smallest unit of life?",
+          "options": ["Atom", "Molecule", "Cell", "Organ"],
+          "correctAnswer": 2,
+          "explanation": "Cell is the smallest unit of life."
+        },
+        {
+          "id": "3",
+          "question": "What is the speed of light?",
+          "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "200,000 km/s"],
+          "correctAnswer": 0,
+          "explanation": "The speed of light is approximately 300,000 km/s."
+        },
+        {
+          "id": "4",
+          "question": "What is the most abundant element in the universe?",
+          "options": ["Oxygen", "Hydrogen", "Helium", "Carbon"],
+          "correctAnswer": 1,
+          "explanation": "Hydrogen is the most abundant element in the universe."
+        },
+        {
+          "id": "5",
+          "question": "What is the boiling point of water at sea level?",
+          "options": ["90°C", "100°C", "110°C", "120°C"],
+          "correctAnswer": 1,
+          "explanation": "Water boils at 100°C at sea level."
+        },
+        { "id": "6",
+          "question": "What planet is known as the Red Planet?",
+          "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "correctAnswer": 1,
+          "explanation": "Mars appears red due to iron oxide on its surface."
+        },
+        { "id": "7",
+          "question": "What gas do humans need to breathe to survive?",
+          "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+          "correctAnswer": 2,
+          "explanation": "Humans need oxygen for respiration."
+        },
+        { "id": "8",
+          "question": "What is the powerhouse of the cell?",
+          "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+          "correctAnswer": 2,
+          "explanation": "Mitochondria produce energy for the cell."
+        },
+        { "id": "9",
+          "question": "What force keeps us on the ground?",
+          "options": ["Magnetism", "Gravity", "Friction", "Tension"],
+          "correctAnswer": 1,
+          "explanation": "Gravity pulls objects toward Earth's center."
+        },
+        { "id": "10",
+          "question": "How many bones are in the adult human body?",
+          "options": ["186", "206", "226", "246"],
+          "correctAnswer": 1,
+          "explanation": "An adult human body has 206 bones."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "category": "Technology",
+      "icon": "💻",
+      "questions": [
+        {
+          "id": "1",
+          "question": "Who is the founder of Microsoft?",
+          "options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Elon Musk"],
+          "correctAnswer": 1,
+          "explanation": "Bill Gates founded Microsoft."
+        },
+        {
+          "id": "2",
+          "question": "What does HTML stand for?",
+          "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language"],
+          "correctAnswer": 0,
+          "explanation": "HTML stands for Hyper Text Markup Language."
+        },
+        {
+          "id": "3",
+          "question": "In which year was the first iPhone released?",
+          "options": ["2005", "2007", "2009", "2011"],
+          "correctAnswer": 1,
+          "explanation": "The first iPhone was released in 2007."
+        },
+        {
+          "id": "4",
+          "question": "What does CPU stand for?",
+          "options": ["Central Processing Unit", "Central Program Utility", "Computer Personal Unit", "Central Processor Utility"],
+          "correctAnswer": 0,
+          "explanation": "CPU stands for Central Processing Unit."
+        },
+        {
+          "id": "5",
+          "question": "Which programming language is known as the 'language of the web'?",
+          "options": ["Python", "Java", "JavaScript", "C++"],
+          "correctAnswer": 2,
+          "explanation": "JavaScript is known as the language of the web."
+        },
+        { "id": "6",
+          "question": "Who is considered the founder of the World Wide Web?",
+          "options": ["Bill Gates", "Tim Berners-Lee", "Steve Jobs", "Mark Zuckerberg"],
+          "correctAnswer": 1,
+          "explanation": "Tim Berners-Lee invented the World Wide Web in 1989."
+        },
+        { "id": "7",
+          "question": "What does 'AI' stand for?",
+          "options": ["Automated Input", "Artificial Intelligence", "Applied Informatics", "Advanced Integration"],
+          "correctAnswer": 1,
+          "explanation": "AI stands for Artificial Intelligence."
+        },
+        { "id": "8",
+          "question": "Which company developed the Android OS?",
+          "options": ["Apple", "Microsoft", "Google", "Samsung"],
+          "correctAnswer": 2,
+          "explanation": "Android was developed by Google."
+        },
+        { "id": "9",
+          "question": "What does 'RAM' stand for?",
+          "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Rapid Access Memory"],
+          "correctAnswer": 0,
+          "explanation": "RAM stands for Random Access Memory."
+        },
+        { "id": "10",
+          "question": "Which company created the Flutter framework?",
+          "options": ["Microsoft", "Google", "Amazon", "Facebook"],
+          "correctAnswer": 1,
+          "explanation": "Flutter was developed by Google."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "category": "History",
+      "icon": "📚",
+      "questions": [
+        {
+          "id": "1",
+          "question": "In which year did World War II end?",
+          "options": ["1943", "1944", "1945", "1946"],
+          "correctAnswer": 2,
+          "explanation": "World War II ended in 1945."
+        },
+        {
+          "id": "2",
+          "question": "Who was the first President of the United States?",
+          "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
+          "correctAnswer": 1,
+          "explanation": "George Washington was the first President of the United States."
+        },
+        {
+          "id": "3",
+          "question": "In which year did the Titanic sink?",
+          "options": ["1910", "1911", "1912", "1913"],
+          "correctAnswer": 2,
+          "explanation": "The Titanic sank in 1912."
+        },
+        {
+          "id": "4",
+          "question": "Who invented the printing press?",
+          "options": ["Leonardo da Vinci", "Johannes Gutenberg", "Nicolaus Copernicus", "Galileo Galilei"],
+          "correctAnswer": 1,
+          "explanation": "Johannes Gutenberg invented the printing press."
+        },
+        {
+          "id": "5",
+          "question": "In which year did the Berlin Wall fall?",
+          "options": ["1987", "1988", "1989", "1990"],
+          "correctAnswer": 2,
+          "explanation": "The Berlin Wall fell in 1989."
+        },
+        { "id": "6",
+          "question": "Who invented the telephone?",
+          "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Benjamin Franklin"],
+          "correctAnswer": 1,
+          "explanation": "Alexander Graham Bell invented the telephone in 1876."
+        },
+        { "id": "7",
+          "question": "Which civilization built the pyramids of Giza?",
+          "options": ["Greek", "Roman", "Egyptian", "Mesopotamian"],
+          "correctAnswer": 2,
+          "explanation": "The pyramids of Giza were built by ancient Egyptians."
+        },
+        { "id": "8",
+          "question": "In which year did India gain independence?",
+          "options": ["1945", "1946", "1947", "1948"],
+          "correctAnswer": 2,
+          "explanation": "India gained independence from British rule in 1947."
+        },
+        { "id": "9",
+          "question": "Who was known as the 'Iron Lady'?",
+          "options": ["Indira Gandhi", "Margaret Thatcher", "Angela Merkel", "Golda Meir"],
+          "correctAnswer": 1,
+          "explanation": "Margaret Thatcher was called the 'Iron Lady'."
+        },
+        { "id": "10",
+          "question": "Which ancient wonder was located in Egypt?",
+          "options": ["Colossus of Rhodes", "Hanging Gardens", "Great Pyramid of Giza", "Lighthouse of Alexandria"],
+          "correctAnswer": 2,
+          "explanation": "The Great Pyramid of Giza is the only ancient wonder still standing."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "category": "General Knowledge",
+      "icon": "🌍",
+      "questions": [
+        {
+          "id": "1",
+          "question": "What is the capital of France?",
+          "options": ["Lyon", "Paris", "Marseille", "Nice"],
+          "correctAnswer": 1,
+          "explanation": "Paris is the capital of France."
+        },
+        {
+          "id": "2",
+          "question": "What is the largest ocean in the world?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+          "correctAnswer": 3,
+          "explanation": "The Pacific Ocean is the largest ocean in the world."
+        },
+        {
+          "id": "3",
+          "question": "How many continents are there?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": 2,
+          "explanation": "There are 7 continents in the world."
+        },
+        {
+          "id": "4",
+          "question": "What is the currency of Japan?",
+          "options": ["Won", "Peso", "Yen", "Baht"],
+          "correctAnswer": 2,
+          "explanation": "The Yen is the currency of Japan."
+        },
+        {
+          "id": "5",
+          "question": "Which country is home to the kangaroo?",
+          "options": ["New Zealand", "Australia", "Papua New Guinea", "Fiji"],
+          "correctAnswer": 1,
+          "explanation": "Australia is home to the kangaroo."
+        },
+        { "id": "6",
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+          "correctAnswer": 2,
+          "explanation": "Jupiter is the largest planet in our solar system."
+        },
+        { "id": "7",
+          "question": "What is the smallest country in the world?",
+          "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+          "correctAnswer": 2,
+          "explanation": "Vatican City is the smallest country by area."
+        },
+        { "id": "8",
+          "question": "Which language has the most native speakers worldwide?",
+          "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+          "correctAnswer": 2,
+          "explanation": "Mandarin Chinese has the most native speakers."
+        },
+        { "id": "9",
+          "question": "How many colors are there in a rainbow?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": 2,
+          "explanation": "A rainbow has 7 colors: VIBGYOR."
+        },
+        { "id": "10",
+          "question": "Which is the longest river in the world?",
+          "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+          "correctAnswer": 1,
+          "explanation": "The Nile River is generally considered the longest river."
+        }
+      ]
+    }
+  ]
+}
